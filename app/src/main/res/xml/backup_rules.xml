@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude specific files and directories from automated backups -->
+    <exclude domain="sharedpref" path="stealthlynk_settings.xml" />
+    <exclude domain="file" path="xray_config" />
+</full-backup-content>
